@@ -26,7 +26,7 @@
 
 ---
 
-## 🗂️ Table of Contents
+## 📑 Table of Contents
 
 -   [WSVAD](#wsvad)
 -   [Feature Extraction Guide (VideoMAE V2 Backbone)](https://github.com/rekkles2/Fed_WSVAD/blob/main/Backbone/README.md)
