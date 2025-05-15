@@ -24,6 +24,16 @@
 -   We introduce the SSALA algorithm to learn private local models, enabling effective parameter aggregation across clients and mitigating the effects of scene heterogeneity.
 -   We demonstrated superior detection performance and robustness through experiments on two benchmark datasets, validating the effectiveness of the proposed framework in both federated and centralized settings.
 
+### 📊 Model Performance Summary
+
+Performance comparison (AUC / FAR) on standard benchmarks.
+
+| Dataset                                                                                                    | Centralized (AUC / FAR) | FedSSALA (AUC / FAR) | Pretrained Models                                                                                      |
+| :--------------------------------------------------------------------------------------------------------- | :---------------------- | :------------------- | :----------------------------------------------------------------------------------------------------- |
+| [🔗 ShanghaiTech](https://drive.google.com/drive/folders/1gArYo-e11ddrWj0lj3w055jPmGPywMqF?usp=drive_link) | **97.91% / 0.04%**      | **97.86% / 0.03%**   | [📥 Download](https://drive.google.com/drive/folders/1s7QWEfbHbb5LfaaHqBFw9pKSXDJtocAK?usp=drive_link) |
+| [🔗 UBnormal](https://drive.google.com/drive/folders/1J_6UTtcjibtJ7qiOFeHeLMiJ6xAciWK3?usp=drive_link)     | **70.91% / 0.00%**      | **76.51% / 0.00%**   | [📥 Download](https://drive.google.com/drive/folders/1s7QWEfbHbb5LfaaHqBFw9pKSXDJtocAK?usp=drive_link) |
+
+
 ---
 
 ## 📑 Table of Contents
@@ -73,16 +83,6 @@ python VAD/inference.py --inference_model='shanghaitech.pkl'
 
 ---
 
-## 📊 Model Performance Summary
-
-Performance comparison (AUC / FAR) on standard benchmarks.
-
-| Dataset                                                                                                    | Centralized (AUC / FAR) | FedSSALA (AUC / FAR) | Pretrained Models                                                                                      |
-| :--------------------------------------------------------------------------------------------------------- | :---------------------- | :------------------- | :----------------------------------------------------------------------------------------------------- |
-| [🔗 ShanghaiTech](https://drive.google.com/drive/folders/1gArYo-e11ddrWj0lj3w055jPmGPywMqF?usp=drive_link) | **97.91% / 0.04%**      | **97.86% / 0.03%**   | [📥 Download](https://drive.google.com/drive/folders/1s7QWEfbHbb5LfaaHqBFw9pKSXDJtocAK?usp=drive_link) |
-| [🔗 UBnormal](https://drive.google.com/drive/folders/1J_6UTtcjibtJ7qiOFeHeLMiJ6xAciWK3?usp=drive_link)     | **70.91% / 0.00%**      | **76.51% / 0.00%**   | [📥 Download](https://drive.google.com/drive/folders/1s7QWEfbHbb5LfaaHqBFw9pKSXDJtocAK?usp=drive_link) |
-
----
 
 ## 📈 Experimental Results
 
