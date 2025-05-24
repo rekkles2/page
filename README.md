@@ -174,6 +174,8 @@ We acknowledge and thank the authors of the following repositories for their val
 * AR-Net: [https://github.com/wanboyang/Anomaly\_AR\_Net\_ICME\_2020](https://github.com/wanboyang/Anomaly_AR_Net_ICME_2020)
 * FedALA: [https://github.com/TsingZ0/FedALA](https://github.com/TsingZ0/FedALA)
 
-<a href="https://clustrmaps.com/site/1c67u" title="ClustrMaps">
-    <img src="//www.clustrmaps.com/map_v2.png?d=5vXVLxUQJKZmhtb1zgYwBSdr65TUyHOP2wBiSDJj2Os&cl=ffffff">
-</a>
+<div align="center">
+  <a href="https://clustrmaps.com/site/1c67u" title="ClustrMaps">
+    <img src="https://www.clustrmaps.com/map_v2.png?d=5vXVLxUQJKZmhtb1zgYwBSdr65TUyHOP2wBiSDJj2Os&cl=ffffff" width="200" height="100" style="border: 1px solid #ccc; border-radius: 5px;">
+  </a>
+</div>
