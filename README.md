@@ -168,7 +168,7 @@ Scene-specific performance comparison on the ShanghaiTech dataset. This analysis
 ###  📊 Anomaly Scores and Corresponding Video Frames
 
 <p align="center">
-  <img src="F1.jpeg" alt="Anomaly scores and corresponding video frames from ShanghaiTech and UBnormal Datasets" width="85%">
+  <img src="https://github.com/rekkles2/page/blob/main/Figure/F1.svg" alt="Anomaly scores and corresponding video frames from ShanghaiTech and UBnormal Datasets" width="100%">
 </p>
 
 <p align="center" style="font-size: 0.97em; color: #6b7280;">
