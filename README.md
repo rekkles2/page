@@ -168,7 +168,7 @@ Scene-specific performance comparison on the ShanghaiTech dataset. This analysis
 ###  📊 Anomaly Scores and Corresponding Video Frames
 
 <p align="center">
-  <img src="Figure/F1.svg" alt="Anomaly scores and corresponding video frames from ShanghaiTech and UBnormal Datasets" width="100%">
+  <img src="Figure/F1.svg" alt="Anomaly scores and corresponding video frames from ShanghaiTech and UBnormal Datasets" width="120%">
 <br>
 <em>Figure 2: Anomaly scores and corresponding video frames from ShanghaiTech and UBnormal Datasets. The top row displays anomaly scores with corresponding video frames from the ShanghaiTech dataset, while the bottom row presents similar results for the UBnormal dataset. Green lines indicate baseline model predictions, and blue lines correspond to our results. Highlighted red areas denote frames containing anomalies.</em>
 </p>
