@@ -1,6 +1,41 @@
+<h1 align="center" style="font-size:2em; font-weight:700; margin-bottom:0.5em;">
+  📹 Dual‑detector Re‑optimization for Federated Weakly Supervised Video Anomaly Detection<br>
+  <span style="font-weight:400;">Via Adaptive Dynamic Recursive Mapping</span>
+</h1>
 
-<h1 align="center">📹 Dual-detector Re-optimization for Federated Weakly Supervised Video Anomaly Detection Via Adaptive Dynamic Recursive Mapping</h1>
+<p align="center" style="font-size:1.1em;">
+  <strong>Yong Su</strong><sup>1*,†</sup>
+  <a href="https://orcid.org/0000-0002-6851-4142" target="_blank" aria-label="Yong Su ORCID iD" style="vertical-align:middle;">
+    <img src="https://orcid.org/trademark/orcid-24x24.png" alt="ORCID iD" width="20" height="20" style="margin-left:2px;margin-right:6px;"/>
+  </a>
 
+  <strong><a href="https://github.com/rekkles2" target="_blank" style="color:#0366d6;">Jiahang Li</a></strong><sup>1*</sup>
+  <a href="https://orcid.org/0009-0002-3403-5589" target="_blank" aria-label="Jiahang Li ORCID iD" style="vertical-align:middle;">
+    <img src="https://orcid.org/trademark/orcid-24x24.png" alt="ORCID iD" width="20" height="20" style="margin-left:2px;margin-right:6px;"/>
+  </a>
+
+  <strong>Simin An</strong><sup>1</sup>
+  <strong>Hengpeng Xu</strong><sup>1</sup>
+
+  <strong><a href="https://terrypangooo.github.io/" target="_blank" style="color:#0366d6;">Weilong Peng</a></strong><sup>2</sup>
+  <a href="https://orcid.org/0000-0001-5820-889X" target="_blank" aria-label="Weilong Peng ORCID iD" style="vertical-align:middle;">
+    <img src="https://orcid.org/trademark/orcid-24x24.png" alt="ORCID iD" width="20" height="20" style="margin-left:2px;margin-right:6px;"/>
+  </a>
+</p>
+
+<p align="center" style="font-size:1em; margin-top:0.3em;">
+  <sup>1</sup> Tianjin Normal University &nbsp;&nbsp;
+  <sup>2</sup> School of Computer Science and Cyber Engineering, Guangzhou University
+</p>
+
+<p align="center" style="font-size:0.95em; color:#555;">
+  <sup>*</sup> Equal contribution &nbsp;&nbsp;
+  <sup>†</sup> Corresponding author
+</p>
+
+
+
+---
 
 <p align="center">
   <strong>⭐ If you find our code useful, please consider starring this repository and citing our paper!</strong>
