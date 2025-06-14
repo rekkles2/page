@@ -1,19 +1,13 @@
-<!-- Title & Author Block – Responsive inline layout -->
+<!-- Title & Author Block – Clean inline layout (no ORCID icons) -->
 <h1 align="center">📹 Dual‑detector Re‑optimization for Federated Weakly Supervised Video Anomaly Detection<br>Via Adaptive Dynamic Recursive Mapping</h1>
 
 <div align="center" style="font-size:1.05em; line-height:1.4;">
   <span style="display:inline-block; margin:0 1rem; white-space:nowrap;">
-    <strong>Yong&nbsp;Su</strong><sup>1*,†</sup>
-    <a href="https://orcid.org/0000-0002-6851-4142" aria-label="Yong Su ORCID iD">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" width="18" alt="ORCID iD" style="vertical-align:text-bottom;"/>
-    </a>
+    <a href="https://orcid.org/0000-0002-6851-4142" target="_blank"><strong>Yong&nbsp;Su</strong></a><sup>1,*,†</sup>
   </span>
-
+  
   <span style="display:inline-block; margin:0 1rem; white-space:nowrap;">
-    <a href="https://github.com/rekkles2" target="_blank"><strong>Jiahang&nbsp;Li</strong></a><sup>1*</sup>
-    <a href="https://orcid.org/0009-0002-3403-5589" aria-label="Jiahang Li ORCID iD">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" width="18" alt="ORCID iD" style="vertical-align:text-bottom;"/>
-    </a>
+    <a href="https://github.com/rekkles2" target="_blank"><strong>Jiahang&nbsp;Li</strong></a><sup>1,*</sup>
   </span>
 
   <span style="display:inline-block; margin:0 1rem; white-space:nowrap;">
@@ -26,9 +20,6 @@
 
   <span style="display:inline-block; margin:0 1rem; white-space:nowrap;">
     <a href="https://terrypangooo.github.io/" target="_blank"><strong>Weilong&nbsp;Peng</strong></a><sup>2</sup>
-    <a href="https://orcid.org/0000-0001-5820-889X" aria-label="Weilong Peng ORCID iD">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" width="18" alt="ORCID iD" style="vertical-align:text-bottom;"/>
-    </a>
   </span>
 </div>
 
@@ -41,6 +32,7 @@
   <sup>*</sup> Equal contribution &nbsp;&nbsp;
   <sup>†</sup> Corresponding author
 </p>
+
 
 
 
