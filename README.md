@@ -1,39 +1,35 @@
-<!-- Optimized title & authors for GitHub / paper front page -->
-<h1 align="center">
-  📹 Dual‑detector Re‑optimization for Federated Weakly Supervised Video Anomaly Detection<br>
-  <span style="font-weight:400;">Via Adaptive Dynamic Recursive Mapping</span>
-</h1>
+<!-- Title & Author Block – GitHub/HTML compatible (no inline CSS) -->
+<h1 align="center">📹 Dual-detector Re-optimization for Federated Weakly Supervised Video Anomaly Detection<br>Via Adaptive Dynamic Recursive Mapping</h1>
 
-<p align="center">
-  <strong>Yong Su</strong><sup>1*,†</sup>
-  <a href="https://orcid.org/0000-0002-6851-4142" aria-label="Yong Su ORCID iD">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" width="20" height="20" alt="ORCID iD"/>
-  </a>
-  &nbsp;&nbsp;
-  <strong><a href="https://github.com/rekkles2" target="_blank">Jiahang Li</a></strong><sup>1*</sup>
-  <a href="https://orcid.org/0009-0002-3403-5589" aria-label="Jiahang Li ORCID iD">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" width="20" height="20" alt="ORCID iD"/>
-  </a>
-  &nbsp;&nbsp;
-  <strong>Simin An</strong><sup>1</sup>
-  &nbsp;&nbsp;
-  <strong>Hengpeng Xu</strong><sup>1</sup>
-  &nbsp;&nbsp;
-  <strong><a href="https://terrypangooo.github.io/" target="_blank">Weilong Peng</a></strong><sup>2</sup>
-  <a href="https://orcid.org/0000-0001-5820-889X" aria-label="Weilong Peng ORCID iD">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" width="20" height="20" alt="ORCID iD"/>
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <strong>Yong&nbsp;Su</strong><sup>1,*,†</sup><br/>
+      <a href="https://orcid.org/0000-0002-6851-4142" aria-label="Yong Su ORCID iD">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" width="20" alt="ORCID iD" />
+      </a>
+    </td>
+    <td align="center">
+      <strong><a href="https://github.com/rekkles2" target="_blank">Jiahang&nbsp;Li</a></strong><sup>1,*</sup><br/>
+      <a href="https://orcid.org/0009-0002-3403-5589" aria-label="Jiahang Li ORCID iD">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" width="20" alt="ORCID iD" />
+      </a>
+    </td>
+    <td align="center"><strong>Simin&nbsp;An</strong><sup>1</sup></td>
+    <td align="center"><strong>Hengpeng&nbsp;Xu</strong><sup>1</sup></td>
+    <td align="center">
+      <strong><a href="https://terrypangooo.github.io/" target="_blank">Weilong&nbsp;Peng</a></strong><sup>2</sup><br/>
+      <a href="https://orcid.org/0000-0001-5820-889X" aria-label="Weilong Peng ORCID iD">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" width="20" alt="ORCID iD" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <sup>1</sup> Tianjin Normal University &nbsp;&nbsp;
-  <sup>2</sup> School of Computer Science and Cyber Engineering, Guangzhou University
-</p>
+<p align="center"><sup>1</sup> Tianjin Normal University &nbsp;&nbsp;&nbsp; <sup>2</sup> School of Computer Science and Cyber Engineering, Guangzhou University</p>
 
-<p align="center">
-  <sup>*</sup> Equal contribution &nbsp;&nbsp;
-  <sup>†</sup> Corresponding author
-</p>
+<p align="center"><sup>*</sup> Equal contribution &nbsp;&nbsp;&nbsp; <sup>†</sup> Corresponding author</p>
+
 
 
 
