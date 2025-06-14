@@ -33,32 +33,12 @@
   <sup>†</sup> Corresponding author
 </p>
 
-
-
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/dual-detector-re-optimization-for-federated/weakly-supervised-video-anomaly-detection-on)](https://paperswithcode.com/sota/weakly-supervised-video-anomaly-detection-on?p=dual-detector-re-optimization-for-federated)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/dual-detector-re-optimization-for-federated/weakly-supervised-video-anomaly-detection-on-1)](https://paperswithcode.com/sota/weakly-supervised-video-anomaly-detection-on-1?p=dual-detector-re-optimization-for-federated)
 
 ---
 
-<p align="center">
-  <strong>⭐ If you find our code useful, please consider starring this repository and citing our paper!</strong>
-</p>
 
-<details open>
-  <summary><strong>📋 BibTeX Citation (click to expand)</strong></summary>
-
-  ```bibtex
-  @ARTICLE{11036561,
-    author={Su, Yong and Li, Jiahang and An, Simin and Xu, Hengpeng and Peng, Weilong},
-    journal={IEEE Transactions on Industrial Informatics},
-    title={Dual-Detector Reoptimization for Federated Weakly Supervised Video Anomaly Detection via Adaptive Dynamic Recursive Mapping},
-    year={2025},
-    volume={},
-    number={},
-    pages={1-11},
-    keywords={Adaptation models;Training;Anomaly detection;Feature extraction;Surveillance;Optimization;Accuracy;Privacy;Detectors;Semantics;Adaptive dynamic recursive mapping;adaptive local aggregation;federated;scene-similarity;video anomaly detection (VAD);weakly supervised},
-    doi={10.1109/TII.2025.3574406}
-  }
-  ```
-</details>
 
 ## 📄 Abstract
 
@@ -87,8 +67,6 @@
   <br>
   <em>Figure 1: Overview of the proposed dual-detector re-optimization framework featuring adaptive dynamic recursive mapping for federated weakly supervised video anomaly detection (Fed-WSVAD).</em>
 </p>
-
----
 
 ## 📌 Key Contributions
 
@@ -248,20 +226,49 @@ Scene-specific performance comparison on the ShanghaiTech dataset. This analysis
 <em>Figure 2: Anomaly scores and corresponding video frames from ShanghaiTech and UBnormal Datasets. The top row displays anomaly scores with corresponding video frames from the ShanghaiTech dataset, while the bottom row presents similar results for the UBnormal dataset. Green lines indicate baseline model predictions, and blue lines correspond to our results. Highlighted red areas denote frames containing anomalies.</em>
 </p>
 
+---
 
+
+## 📚 Citation
+
+<p align="center">
+  <strong>⭐ If you find this project helpful, please star the repository and cite our paper.</strong>
+</p>
+
+<details open>
+  <summary><strong>📋 BibTeX (click to expand)</strong></summary>
+
+```bibtex
+@ARTICLE{11036561,
+  author  = {Su, Yong and Li, Jiahang and An, Simin and Xu, Hengpeng and Peng, Weilong},
+  journal = {IEEE Transactions on Industrial Informatics},
+  title   = {Dual-Detector Reoptimization for Federated Weakly Supervised Video Anomaly Detection via Adaptive Dynamic Recursive Mapping},
+  year    = {2025},
+  volume  = {},
+  number  = {},
+  pages   = {1–11},
+  keywords = {Adaptation models;Training;Anomaly detection;Feature extraction;Surveillance;Optimization;Accuracy;Privacy;Detectors;Semantics;Adaptive dynamic recursive mapping;adaptive local aggregation;federated;scene-similarity;video anomaly detection (VAD);weakly supervised},
+  doi     = {10.1109/TII.2025.3574406}
+}
+````
+
+</details>
 
 ---
 
-## 🙏 Acknowledgement
+## 🙏 Acknowledgements
 
-We acknowledge and thank the authors of the following repositories for their valuable open-source contributions:
+We gratefully acknowledge the authors of the following open-source repositories for their invaluable contributions:
 
-* Flower Framework: [https://github.com/adap/flower](https://github.com/adap/flower)
-* AR-Net: [https://github.com/wanboyang/Anomaly\_AR\_Net\_ICME\_2020](https://github.com/wanboyang/Anomaly_AR_Net_ICME_2020)
-* FedALA: [https://github.com/TsingZ0/FedALA](https://github.com/TsingZ0/FedALA)
+* 🌸 **Flower Framework**: [https://github.com/adap/flower](https://github.com/adap/flower)
+* 🕵️ **AR-Net**: [https://github.com/wanboyang/Anomaly\_AR\_Net\_ICME\_2020](https://github.com/wanboyang/Anomaly_AR_Net_ICME_2020)
+* 🤝 **FedALA**: [https://github.com/TsingZ0/FedALA](https://github.com/TsingZ0/FedALA)
 
 <div align="center">
   <a href="https://clustrmaps.com/site/1c67u" title="ClustrMaps">
-    <img src="https://www.clustrmaps.com/map_v2.png?d=5vXVLxUQJKZmhtb1zgYwBSdr65TUyHOP2wBiSDJj2Os&cl=ffffff" width="200" height="100" style="border: 1px solid #ccc; border-radius: 5px;">
+    <img src="https://www.clustrmaps.com/map_v2.png?d=5vXVLxUQJKZmhtb1zgYwBSdr65TUyHOP2wBiSDJj2Os&cl=ffffff" width="200" height="100" style="border:1px solid #ccc;border-radius:5px;">
   </a>
 </div>
+
+
+
