@@ -2,16 +2,52 @@
 <h1 align="center">📹 Dual-detector Re-optimization for Federated Weakly Supervised Video Anomaly Detection Via Adaptive Dynamic Recursive Mapping</h1>
 
 
+<p align="center">
+  <strong>⭐ If you find our code useful, please consider starring this repository and citing our paper!</strong>
+</p>
 
+<details open>
+  <summary><strong>📋 BibTeX Citation (click to expand)</strong></summary>
 
+  ```bibtex
+  @ARTICLE{11036561,
+    author={Su, Yong and Li, Jiahang and An, Simin and Xu, Hengpeng and Peng, Weilong},
+    journal={IEEE Transactions on Industrial Informatics},
+    title={Dual-Detector Reoptimization for Federated Weakly Supervised Video Anomaly Detection via Adaptive Dynamic Recursive Mapping},
+    year={2025},
+    volume={},
+    number={},
+    pages={1-11},
+    keywords={Adaptation models;Training;Anomaly detection;Feature extraction;Surveillance;Optimization;Accuracy;Privacy;Detectors;Semantics;Adaptive dynamic recursive mapping;adaptive local aggregation;federated;scene-similarity;video anomaly detection (VAD);weakly supervised},
+    doi={10.1109/TII.2025.3574406}
+  }
+  ```
+</details>
 
+## 📄 Abstract
 
-<p align="center"><strong>⭐ If you find our code useful, please consider starring this repository!</strong></p>
-
----
+> Federated weakly supervised video anomaly
+> detection represents a significant advancement in privacy-preserving collaborative learning,
+> enabling distributed clients to train anomaly detectors using only video-level annotations.
+> However, the inherent challenges of optimizing noisy representation with coarse-grained labels
+> often result in substantial local model errors, which are exacerbated during federated aggregation,
+> particularly in heterogeneous scenarios. To address these limitations, we propose a novel
+> dual-detector framework incorporating adaptive dynamic recursive mapping, which significantly
+> enhances local model accuracy and robustness against representation noise. Our framework
+> integrates two complementary components: a channel-averaged anomaly detector and a
+> channel-statistical anomaly detector, which interact through cross-detector adaptive decision
+> parameters to enable iterative optimization and stable anomaly scoring across all instances.
+> Furthermore, we introduce the scene similarity adaptive local aggregation algorithm, which
+> dynamically aggregates and learns private models based on scene similarity, thereby enhancing
+> generalization capabilities across diverse scenarios. Extensive experiments conducted on the
+> NVIDIA Jetson AGX Xavier platform using the ShanghaiTech and UBnormal datasets demonstrate
+> the superior performance of our approach in both centralized and federated settings. Notably,
+> in federated environments, our method achieves remarkable improvements of 6.2% and 12.3% in AUC
+> compared to state-of-the-art methods, underscoring its effectiveness in resource-constrained
+> scenarios and its potential for real-world applications in distributed video surveillance systems.
 
 <p align="center">
-  <img src="https://github.com/rekkles2/Fed_WSVAD/raw/main/Figure/model.svg" alt="Figure 1. Dual-detector re-optimization framework with adaptive dynamic recursive mapping for weakly supervised video anomaly detection." width="100%">
+  <img src="https://github.com/rekkles2/Fed_WSVAD/raw/main/Figure/model.svg" alt="Figure 1. Dual-detector re-optimization framework with adaptive dynamic recursive mapping for weakly supervised video anomaly detection." width="100%"/>
   <br>
   <em>Figure 1: Overview of the proposed dual-detector re-optimization framework featuring adaptive dynamic recursive mapping for federated weakly supervised video anomaly detection (Fed-WSVAD).</em>
 </p>
@@ -20,9 +56,12 @@
 
 ## 📌 Key Contributions
 
--   We introduce a dual-detector framework that leverages adaptive dynamic recursive mapping and decision parameter interaction to generate more stable anomaly scores, thereby enhancing detection accuracy.
--   We introduce the SSALA algorithm to learn private local models, enabling effective parameter aggregation across clients and mitigating the effects of scene heterogeneity.
--   We demonstrated superior detection performance and robustness through experiments on two benchmark datasets, validating the effectiveness of the proposed framework in both federated and centralized settings.
+- We introduce a dual-detector framework that leverages adaptive dynamic recursive mapping and decision parameter interaction to generate more stable anomaly scores, thereby enhancing detection accuracy.
+- We introduce the SSALA algorithm to learn private local models, enabling effective parameter aggregation across clients and mitigating the effects of scene heterogeneity.
+- We demonstrated superior detection performance and robustness through experiments on two benchmark datasets, validating the effectiveness of the proposed framework in both federated and centralized settings.
+
+---
+
 
 ### 📊 Model Performance Summary
 
