@@ -1,37 +1,40 @@
-<h1 align="center" style="font-size:2em; font-weight:700; margin-bottom:0.5em;">
+<!-- Optimized title & authors for GitHub / paper front page -->
+<h1 align="center">
   📹 Dual‑detector Re‑optimization for Federated Weakly Supervised Video Anomaly Detection<br>
   <span style="font-weight:400;">Via Adaptive Dynamic Recursive Mapping</span>
 </h1>
 
-<p align="center" style="font-size:1.1em;">
+<p align="center">
   <strong>Yong Su</strong><sup>1*,†</sup>
-  <a href="https://orcid.org/0000-0002-6851-4142" target="_blank" aria-label="Yong Su ORCID iD" style="vertical-align:middle;">
-    <img src="https://orcid.org/trademark/orcid-24x24.png" alt="ORCID iD" width="20" height="20" style="margin-left:2px;margin-right:6px;"/>
+  <a href="https://orcid.org/0000-0002-6851-4142" aria-label="Yong Su ORCID iD">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" width="20" height="20" alt="ORCID iD"/>
   </a>
-
-  <strong><a href="https://github.com/rekkles2" target="_blank" style="color:#0366d6;">Jiahang Li</a></strong><sup>1*</sup>
-  <a href="https://orcid.org/0009-0002-3403-5589" target="_blank" aria-label="Jiahang Li ORCID iD" style="vertical-align:middle;">
-    <img src="https://orcid.org/trademark/orcid-24x24.png" alt="ORCID iD" width="20" height="20" style="margin-left:2px;margin-right:6px;"/>
+  &nbsp;&nbsp;
+  <strong><a href="https://github.com/rekkles2" target="_blank">Jiahang Li</a></strong><sup>1*</sup>
+  <a href="https://orcid.org/0009-0002-3403-5589" aria-label="Jiahang Li ORCID iD">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" width="20" height="20" alt="ORCID iD"/>
   </a>
-
+  &nbsp;&nbsp;
   <strong>Simin An</strong><sup>1</sup>
+  &nbsp;&nbsp;
   <strong>Hengpeng Xu</strong><sup>1</sup>
-
-  <strong><a href="https://terrypangooo.github.io/" target="_blank" style="color:#0366d6;">Weilong Peng</a></strong><sup>2</sup>
-  <a href="https://orcid.org/0000-0001-5820-889X" target="_blank" aria-label="Weilong Peng ORCID iD" style="vertical-align:middle;">
-    <img src="https://orcid.org/trademark/orcid-24x24.png" alt="ORCID iD" width="20" height="20" style="margin-left:2px;margin-right:6px;"/>
+  &nbsp;&nbsp;
+  <strong><a href="https://terrypangooo.github.io/" target="_blank">Weilong Peng</a></strong><sup>2</sup>
+  <a href="https://orcid.org/0000-0001-5820-889X" aria-label="Weilong Peng ORCID iD">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" width="20" height="20" alt="ORCID iD"/>
   </a>
 </p>
 
-<p align="center" style="font-size:1em; margin-top:0.3em;">
-  <sup>1</sup> Tianjin Normal University &nbsp;&nbsp;
-  <sup>2</sup> School of Computer Science and Cyber Engineering, Guangzhou University
+<p align="center">
+  <sup>1</sup> Tianjin Normal University &nbsp;&nbsp;
+  <sup>2</sup> School of Computer Science and Cyber Engineering, Guangzhou University
 </p>
 
-<p align="center" style="font-size:0.95em; color:#555;">
-  <sup>*</sup> Equal contribution &nbsp;&nbsp;
-  <sup>†</sup> Corresponding author
+<p align="center">
+  <sup>*</sup> Equal contribution &nbsp;&nbsp;
+  <sup>†</sup> Corresponding author
 </p>
+
 
 
 
