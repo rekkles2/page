@@ -4,13 +4,13 @@
 <table align="center">
   <tr>
     <td align="center">
-      <strong>Yong&nbsp;Su</strong><sup>1*,†</sup>
+      <strong>Yong&nbsp;Su</strong><sup>1,*,†</sup>
       <a href="https://orcid.org/0000-0002-6851-4142" aria-label="Yong Su ORCID iD">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" width="20" alt="ORCID iD" />
       </a>
     </td>
     <td align="center">
-      <strong><a href="https://github.com/rekkles2" target="_blank">Jiahang&nbsp;Li</a></strong><sup>1*</sup>
+      <strong><a href="https://github.com/rekkles2" target="_blank">Jiahang&nbsp;Li</a></strong><sup>1,*</sup>
       <a href="https://orcid.org/0009-0002-3403-5589" aria-label="Jiahang Li ORCID iD">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" width="20" alt="ORCID iD" />
       </a>
