@@ -1,5 +1,5 @@
 <!-- Title & Author Block – Clean inline layout (no ORCID icons) -->
-<h1 align="center">📹 Dual‑detector Re‑optimization for Federated Weakly Supervised Video Anomaly Detection<br>Via Adaptive Dynamic Recursive Mapping</h1>
+<h1 align="center">📹 Dual-Detector Reoptimization for Federated Weakly Supervised Video Anomaly Detection via Adaptive Dynamic Recursive Mapping</h1>
 
 <div align="center" style="font-size:1.05em; line-height:1.4;">
   <span style="display:inline-block; margin:0 1rem; white-space:nowrap;">
