@@ -265,10 +265,17 @@ We gratefully acknowledge the authors of the following open-source repositories 
 * 🤝 **FedALA**: [https://github.com/TsingZ0/FedALA](https://github.com/TsingZ0/FedALA)
 
 <div align="center">
-  <a href="https://clustrmaps.com/site/1c67u" title="ClustrMaps">
-    <img src="https://www.clustrmaps.com/map_v2.png?d=5vXVLxUQJKZmhtb1zgYwBSdr65TUyHOP2wBiSDJj2Os&cl=ffffff" width="200" height="100" style="border:1px solid #ccc;border-radius:5px;">
+  <a href="https://clustrmaps.com/site/1c67u" title="Visit tracker">
+    <img
+      src="//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=tt&d=5vXVLxUQJKZmhtb1zgYwBSdr65TUyHOP2wBiSDJj2Os"
+      width="200"
+      height="100"
+      style="border:1px solid #ccc; border-radius:5px;"
+      alt="ClustrMaps"
+    />
   </a>
 </div>
+
 
 
 
